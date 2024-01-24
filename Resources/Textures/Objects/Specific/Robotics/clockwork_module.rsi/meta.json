@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": "Taken from tgstation at https://github.com/silicons/tgstation/blob/77d70b995585c4793a58f056c0b227f13aad99d7/icons/obj/module.dmi",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "clock_mod",
+      "delays": [
+        [
+          0.6,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    }
+  ]
+}

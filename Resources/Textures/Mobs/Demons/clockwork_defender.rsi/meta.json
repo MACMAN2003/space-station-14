@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/ddfdc70d738152f5a97c89219c9b40a922d5a54e/icons/mob/simple/icemoon/icemoon_monsters.dmi",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "clockwork_defender",
+      "directions": 4,
+      "delays": [
+        [
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07
+        ],
+        [
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07
+        ],
+        [
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07
+        ],
+        [
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07,
+          0.07
+        ]
+      ]
+    }
+  ]
+}
